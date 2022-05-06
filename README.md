@@ -1,2 +1,0 @@
-# Primeiro-repositor-
-pensamento computacional 
